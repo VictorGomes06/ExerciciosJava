@@ -3,8 +3,8 @@ package Exercicios;
 public class Exercicio01 {
 
 	public static void main(String[] args) {
-		int valor01 = 15;
-		int valor02 = 15;
+		int valor01 = 0;
+		int valor02 = 0;
 		
 		int soma = valor01 + valor02;
 		
