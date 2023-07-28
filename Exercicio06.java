@@ -3,9 +3,9 @@ package Exercicios;
 public class Exercicio06 {
 
 	public static void main(String[] args) {
-		float a = 3.0f ;
-		float b = 4.0f;
-		float c = 5.2f;
+		float a = 0.0f ;
+		float b = 0.0f;
+		float c = 0.2f;
 		double pi = 3.14159;
 		
 		double areaTriangulo = a * c / 2 ;
